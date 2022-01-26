@@ -7,3 +7,4 @@ Scala の制御構文の勉強
 2. if 式
 3. while 式
 4. for 式
+5. Match 式
